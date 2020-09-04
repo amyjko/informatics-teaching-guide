@@ -1,102 +1,25 @@
-
 <!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-		<!-- Bootstrap requires jQuery -->
-		<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+		<!-- Bootstrap CSS -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-		<!-- Load some Lora -->
+		<!-- Bootstrap jQuery -->
+		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+
+		<!-- Load Lora font -->
 		<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 
-		<!-- Latest compiled and minified CSS -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-		
-		<!-- Optional theme -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-		
-		<!-- Latest compiled and minified JavaScript -->
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-		
-		<link rel="stylesheet" href="style.css" />
+		<!-- Puruse style -->
+		<link rel="stylesheet" href="peruse.css">
 
-		<title>Informatics Teaching Guide</title>
-		
-	</head>
-	<body>
+		<!-- Peruse app -->
+		<script src="peruse.js"></script>
 
-		<img src="images/cover.jpg" class="img-responsive" alt="Four quadrants with four types of teaching: lecture, classroom, computer lab, and office hours." />		
-		<small>Higher education teaching happens in many different contexts. Credit: Amy J. Ko, Ph.D.</small>
-		
-		<h1>Informatics Teaching Guide</h1>
-		<div class="lead"><a href="http://faculty.uw.edu/ajko">Amy J. Ko, Ph.D.</a></div>
-
-		<table class="table">
-			<tr>
-				<td rowspan="17" width="40%">
-					<p>
-						Teaching is hard, especially in higher education, where few people have a formal training in learning, teaching, or education.
-						I wrote this book to support the teachers in the University of Washington Information school who lack training in teaching, providing a personal, but also evidence-based understanding of teaching and learning.
-						It shouldn't take more than 1 hour to read, and should provide the knowledge you need to structure your practice as a teacher.
-					</p>
-
-					<p>I hope you enjoy! If not, please file an <a href="https://github.com/andyjko/informatics-teaching-guide/issues/new">issue</a> on the <a href="https://github.com/andyjko/informatics-teaching-guide/">the book's GitHub repository</a>.</p>
-				</td>
-				<td>Chapter 1</td><td><a href="overview.html">Overview</a></td>
-			</tr>
-			<tr>
-				<td>Chapter 2</td><td><a href="students.html">The students</a></td>
-			</tr>
-			<tr>
-				<td>Chapter 3</td><td><a href="curriculum.html">The curriculum</a></td>
-			</tr>
-			<tr>
-				<td>Chapter 4</td><td><a href="rules.html">The rules</a></td>
-			</tr>
-			<tr>
-				<td>Chapter 5</td><td><a href="learning.html">About learning</a></td>
-			</tr>
-			<tr>
-				<td>Chapter 6</td><td><a href="teaching.html">About teaching</a></td>
-			</tr>
-			<tr>
-				<td>Chapter 7</td><td><a href="courses.html">Designing courses</a></td>
-			</tr>
-			<tr>
-				<td>Chapter 8</td><td><a href="grading.html">Grading</a></td>
-			</tr>
-			<tr>
-				<td>Chapter 9</td><td><a href="conflict.html">Managing conflict</a></td>
-			</tr>
-			<tr>
-				<td>Chapter 10</td><td><a href="practice.html">Practicing teaching</a></td>
-			</tr>
-    </table>
-
-		<small>
-			<p><a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a></p>
-		
-		</small>
-
-		<script type="text/javascript">
-		
-			var _gaq = _gaq || [];
-			_gaq.push(['_setAccount', 'UA-10917999-1']);
-			_gaq.push(['_trackPageview']);
-			
-			(function() {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-			})();
-		
-		</script>
-
-	</body>
-
+    </head>
+    <body onload="peruse('book.json')"><body>
 </html>
-
-
-
