@@ -25,10 +25,7 @@ Here are some of the many factors I've encountered while teaching at UW:
 
 *  Some students experience significant *hardship* in school: poverty, hunger, sexual assault, deaths in the family, divorce, childcare obligations. School doesn't shield against these things; and at UW, where we admit a high proportion of first generation college students, many of these are common experiences. It's hard to focus on learning when there are bigger events in life. If you notice a student not submitting work, reach out to them and offer them campus resources; it's more likely something difficult is happening in their life than that they are lazy.
 
-* Some students have *mental health* issues that make it challenging to focus on learning. 
-    Our university provides some resources for students, but they're far from adequate and many students do not utilize them.
-    If a student seems to disappear from a course, sometimes mental health is the reason.
-    Check in with them and see if they need help. 
+* Some students have *mental health* issues that make it challenging to focus on learning. Our university provides some resources for students, but they're far from adequate and many students do not utilize them. If a student seems to disappear from a course, sometimes mental health is the reason. Check in with them and see if they need help. 
 
 * Some of our students are not *U.S. citizens* and face a whole collection of anxieties, barriers, and sometimes threats. For example, even basic policies, such as international students inability to secure sufficient student work visas to land summer internships, result in inequities that put a greater stress on their career planning.
 
