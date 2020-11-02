@@ -2,7 +2,7 @@ Teaching at the [University of Washington|https://www.washington.edu/"] can be g
 
 And the chances are good you will, because very few people who teach in higher education have ever had the opportunity to learn about the science of learning <nrc2000,nasem2018>. At the very least, you'll learn what we know about learning and teaching. This might confirm some of your beliefs. It might cause you to question others.
 
-Why listen to me? I don't have a formal education in education, so I'm not fully versed in it's complexities, but I'm not inexpert either:
+Why listen to me? I don't have a formal education in education, so I'm not fully versed in its complexities, but I'm not inexpert either:
 		
 * I've taught as a tutor and in classrooms since I was 14.
 * I've taught in higher education since I was an undergraduate in 1999.
