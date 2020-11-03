@@ -18,13 +18,13 @@ Even if learning is successful, it turns out that people rarely *transfer* their
 		
 Whereas all of the ideas above are supported by many decades of research on learning, there are many common myths about learning that are *not* true:
 		
-* Lecturing is generally less effective than active learning methods\. $1ctive learning methods engage students in practicing skills, recalling knowledge, and synthesizing ideas, rather than just listening. Counterintuitively, learners _perceive_ active learning as less effective than great lectures, but this is because learners perceive the struggle to learn as _not_ learning <deslauriers2019>.
+* Lecturing is generally less effective than active learning methods\. Active learning methods engage students in practicing skills, recalling knowledge, and synthesizing ideas, rather than just listening. Counterintuitively, learners _perceive_ active learning as less effective than great lectures, but this is because learners perceive the struggle to learn as _not_ learning <deslauriers2019>.
 
 * Students do not have different *learning styles* <pashler2009>.
 
 * _All_ learners use auditory, visual, and kinesthetic information to learn, and even when learners have a preference for a particular medium, their preference has no impact on learning. That doesn't mean that methods of teaching something are equally effective for all learners, but that's because of varying prior knowledge, not differences in ways people process information from different media.
 
-* There's no such thing as "left brained" or "right brained" students. Most people have both hemispheres and we all use both of them fully. What people are usually thinking of when they say this is that personalities vary\. $1hey do, and teaching to varying personalities does require careful planning.
+* There's no such thing as "left brained" or "right brained" students. Most people have both hemispheres and we all use both of them fully. What people are usually thinking of when they say this is that personalities vary\. They do, and teaching to varying personalities does require careful planning.
 
 * There is no magic number of hours of practice (e.g., 10,000) that result in expertise. It's the _quality_ of practice that determines the pace of learning.
 
@@ -34,4 +34,4 @@ Whereas all of the ideas above are supported by many decades of research on lear
 
 * Students do not "discover" their passions. They develop them. Teachers can help develop them.
 	
-All of these ideas show that learning is purposeful and is highly sensitive to a learners' self, self-knowledge, and environment.
+All of these ideas show that learning is purposeful and is highly sensitive to a learner's self, self-knowledge, and environment.
