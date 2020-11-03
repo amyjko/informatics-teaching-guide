@@ -19,7 +19,7 @@ While there are some consistencies in our students' interest, there is considera
 Here are some of the many factors I've encountered while teaching at UW:
 *  Some students don't have good *sleep hygiene*, and therefore don't sleep enough to stay awake in class. Let them sleep; they're not going to learn anything if they're barely conscious. And don't set deadlines at midnight; that just incentivizes poor sleep hygiene.
 
-* Some students live further away from campus every year and struggle to *commute* to campus reliability. Be tolerant of some variation in arrival times. Because you're likely paid more than them, they likely commute much further than you do, and may experience greater uncertainty in their trips.
+* Some students live further away from campus every year and struggle to *commute* to campus reliably. Be tolerant of some variation in arrival times. Because you're likely paid more than them, they likely commute much further than you do, and may experience greater uncertainty in their trips.
 
 * As the cost of education at increases, some students are having to *work* more, sometimes full-time, to pay for their education. This might mean they can't attend class or do homework. Remember that failure to do assigned work is not necessarily laziness, but more likely a carefully made choice about triaging time. Consider more flexible policies that support this triage.
 
