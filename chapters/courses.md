@@ -1,4 +1,4 @@
-Given everything above about learning, teaching, and the diversity and complexity of students' lives at UW, how should design classes to promote effective learning? There are many ways, and I can't enumerate them here, but I can enumerate some basic principles.
+Given everything above about learning, teaching, and the diversity and complexity of students' lives at UW, how should we design classes to promote effective learning? There are many ways, and I can't enumerate them here, but I can enumerate some basic principles.
 		 
 First, *don't just teach how you were taught*. Think first: what are you teaching and how can you best support the learning of it through practice, given all of your students' varying prior knowledge, the necessity of practice, and the complexity of students' lives? Lectures, a midterm, and a final exam are rarely compatible with most of the above. You have the freedom to try any form of teaching that you believe might best promote equitable learning.
 
