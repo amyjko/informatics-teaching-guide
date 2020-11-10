@@ -14,7 +14,7 @@
 		{ "id": "teaching", "title": "Teaching", "image": "|teaching.jpg|An illustration of a teacher in front of a classroom|The sage on the stage is rarely the most effective teaching method.|Amy J. Ko|" },
 		{ "id": "courses", "title": "Courses", "image": "|courses.jpg|An illustration of a course website.|A great course can look deceptively simple.|Amy J. Ko|" },
 		{ "id": "grading", "title": "Grading", "image": "|grading.jpg|An illustration of grade points corresponding to progressively happy smiley faces.|Grades are everything and nothing.|Amy J. Ko|" },
-		{ "id": "conflict", "title": "Conflict", "image": "|conflict.jpg|An illustration of two people having an argument.|Challenging students can be challening.|Amy J. Ko|" },
+		{ "id": "conflict", "title": "Conflict", "image": "|conflict.jpg|An illustration of two people having an argument.|Challenging students can be challenging.|Amy J. Ko|" },
 		{ "id": "practice", "title": "Practice", "image": "|practice.jpg|Four panels showing a teacher reaching successively more students.|Better through reflection.|Amy J. Ko|" }
 	],
 	"revisions": [
