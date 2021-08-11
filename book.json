@@ -2,8 +2,6 @@
 	"title": "Informatics Teaching Guide",
 	"authors": [{"id": "ajko", "name": "Amy J. Ko", "url": "https://faculty.washington.edu/ajko/"}],
 	"license": "[Creative Commons Attribution-NoDeriviatives 4.0|https://creativecommons.org/licenses/by-nd/4.0/]",
-	"cover": "|cover.jpg|An illustration of several modes of teaching|Higher education teaching happens in many different contexts|Amy J. Ko|",
-	"unknown": "|cover.jpg||An illustration of several modes of teaching.|It looks like you're lost.|Amy J. Ko|",
 	"images": {
 		"cover": "|cover.jpg|An illustration of several modes of teaching|Higher education teaching happens in many different contexts|Amy J. Ko|",
 		"unknown": "|cover.jpg||An illustration of several modes of teaching.|It looks like you're lost.|Amy J. Ko|"	
