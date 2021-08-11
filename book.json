@@ -4,6 +4,10 @@
 	"license": "[Creative Commons Attribution-NoDeriviatives 4.0|https://creativecommons.org/licenses/by-nd/4.0/]",
 	"cover": "|cover.jpg|An illustration of several modes of teaching|Higher education teaching happens in many different contexts|Amy J. Ko|",
 	"unknown": "|cover.jpg||An illustration of several modes of teaching.|It looks like you're lost.|Amy J. Ko|",
+	"images": {
+		"cover": "|cover.jpg|An illustration of several modes of teaching|Higher education teaching happens in many different contexts|Amy J. Ko|",
+		"unknown": "|cover.jpg||An illustration of several modes of teaching.|It looks like you're lost.|Amy J. Ko|"	
+	},
 	"description": "Teaching is hard, especially in higher education, where few people have a formal training in learning, teaching, or education. I wrote this book to support the teachers in the University of Washington Information school who lack training in teaching, providing a personal, but also evidence-based understanding of teaching and learning. It shouldn't take more than 1 hour to read, and should provide the knowledge you need to structure your practice as a teacher.\n\nI hope you enjoy! If not, please file an [issue|https://github.com/amyjko/informatics-teaching-guide/issues/new] on the book's [GitHub repository|https://github.com/amyjko/informatics-teaching-guide/].",
 	"chapters": [
 		{ "id": "overview", "title": "Overview", "image": "|overview.jpg|An illustration of two different classrooms|The student becomes the teacher.|Amy J. Ko|" },
