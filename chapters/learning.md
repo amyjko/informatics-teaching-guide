@@ -16,7 +16,7 @@ Even if a student is motivated to learn, has a growth mindset, has an interest, 
 		
 Even if learning is successful, it turns out that people rarely *transfer* their knowledge from one domain to another <haskell2000>. Human knowledge appears to be mostly context-sensitive; if you want students to take an idea and use it in other contexts, you need to explicitly teach them how to apply that idea in that context. There is some evidence that some people transfer knowledge independently, but it's rare and we don't know how to ensure that everyone does. Academics seem to do this more than others, which is an unfortunate expert blind spot that leads many to assume that their students will too.
 		
-Whereas all of the ideas above are supported by many decades of research on learning, there are many common myths about learning that are *not* true:
+Whereas all of the ideas above are supported by many decades of research on learning, there are many common myths about learning:
 
 * Lecturing is generally less effective than active learning methods. Active learning methods engage students in practicing skills, recalling knowledge, and synthesizing ideas, rather than just listening. Counterintuitively, learners may _perceive_ active learning as less effective than great lectures, because they can lead to a sense of struggle and confusion, but this is because learners wrongly perceive the struggle to learn as _not_ learning<deslauriers2019>.
 
@@ -28,6 +28,6 @@ Whereas all of the ideas above are supported by many decades of research on lear
 
 * Praising intelligence does not help; it reinforces a fixed mindset, falsely signaling to students that they're abilities come from an intrinsic trait rather than their effort. Praising _effort_ and _persistence_ does help, because it promotes a growth mindset.
 
-* Students do not "discover" their passions. They develop interests, with the hlep of teachers, who can share new possible interests and give them positive experiences with those potential interests that eventually lead students to internalize them.
+* Students do not "discover" their passions. They develop interests, with the help of teachers, who can share new possible interests and give them positive experiences with those potential interests that eventually lead students to internalize them.
 	
 All of these ideas show that learning is purposeful, highly sensitive to a learners' self, self-knowledge, and environment, and greatly shaped by the social context of learning, especially teachers.

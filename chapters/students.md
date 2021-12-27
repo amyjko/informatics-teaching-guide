@@ -31,7 +31,7 @@ Here are some of the many factors I've encountered while teaching at UW:
 
 * Some of our students do not start at UW, but *transfer* from 2-year colleges from around the state, and sometimes other universities. While this is a widely pursued path, especially through the state's [Running Start program|https://www.sbctc.edu/colleges-staff/programs-services/running-start/default.aspx], many transfer students can take several quarters to adjust. Never assume that students know how university policies work, how to access learning technologies, or how to engage university services.
 
-* Students come from all over the world, and so their *prior knowledge* from primary, secondary, and other education varies widely. University admissions has same basic minimum standards with respect to reading, writing, and math, but the assessments are not perfect. You may find yourself teaching students who still struggle to write coherent sentences and paragraphs, or reason algebraicly.
+* Students come from all over the world, and so their *prior knowledge* from primary, secondary, and other education varies widely. University admissions has same basic minimum standards with respect to reading, writing, and math, but the assessments are not perfect. You may find yourself teaching students who still struggle to write coherent sentences and paragraphs, or reason algebraically.
 
 * Some students have *physical disabilities*, such as blindness, deafness, low-vision, and other physical impairments that limit their ability to perceive or access the materials that teachers create. Use the many tools provided on campus to test the accessibility of your materials.
 

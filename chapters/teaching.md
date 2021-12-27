@@ -27,7 +27,7 @@ Outside of class, students might face the same distractions, but have even less 
 
 Teachers, therefore, *structure* learning. They do it by being inspiring role models and mentors that catalyze interest. They do it by planning learning activities that promote a growth mindset and practice. And they do it by giving detailed, personalized feedback about students' learning.
 		
-Unfortunately, some teachers do the oppposite of these things:
+Unfortunately, some teachers do the opposite of these things:
 		
 		
 * They reinforce a fixed mindset, portraying a world in which some students "get" it and some don't.

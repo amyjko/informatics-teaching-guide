@@ -4,10 +4,10 @@ Our faculty view information technology broadly: it includes not just computatio
 
 To achieve these goals, our curriculum has several key courses:
 
-* *INFO 200* _Intellectual Foundations_ provides a broad overview of criticial perspectives on the design and impact of information systems in society.
+* *INFO 200* _Intellectual Foundations_ provides a broad overview of critical perspectives on the design and impact of information systems in society.
 * *INFO 201* _Technical Foundations_ provides a data-driven introduction to the development of software-based information technology and the computational analysis of data.
 * *INFO 300* _Research Methods_ teaches how we gather and analyze data to answer questions.
-* *INFO 330* _Databases and Data Modeling_ teaches how we represent, persist, and retireve data representations of entities in the world.
+* *INFO 330* _Databases and Data Modeling_ teaches how we represent, persist, and retrieve data representations of entities in the world.
 * *INFO 340* _Client-side Development_ teaches how to create information technology for the internet
 * *INFO 350* _Information Ethics and Policy_ teaches how to reason about values, rights, and laws related to information and intellectual property.
 * *INFO 360* _Design Methods_ teaches how to envision, evaluate, and communicate new information systems.
