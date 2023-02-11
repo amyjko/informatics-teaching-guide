@@ -1,89 +1,154 @@
 {
-	"title": "Informatics Teaching Guide",
-	"authors": ["[Amy J. Ko|https://amyjko.com]"],
-	"license": "[Creative Commons Attribution-NoDeriviatives 4.0|https://creativecommons.org/licenses/by-nd/4.0/]",
-	"images": {
-		"cover": "|cover.jpg|An illustration of several modes of teaching|Higher education teaching happens in many different contexts|Amy J. Ko|",
-		"unknown": "|cover.jpg||An illustration of several modes of teaching.|It looks like you're lost.|Amy J. Ko|"	
-	},
-	"description": "Teaching is hard, especially in higher education, where few people have a formal training in learning, teaching, or education. I wrote this book to support the teachers in the University of Washington Information school who lack training in teaching, providing a personal, but also evidence-based understanding of teaching and learning. It shouldn't take more than 1 hour to read, and should provide the knowledge you need to structure your practice as a teacher.\n\nI hope you enjoy! If not, please file an [issue|https://github.com/amyjko/informatics-teaching-guide/issues/new] on the book's [GitHub repository|https://github.com/amyjko/informatics-teaching-guide/].",
-	"chapters": [
-		{ "id": "overview", "title": "Overview", "image": "|overview.jpg|An illustration of two different classrooms|The student becomes the teacher.|Amy J. Ko|" },
-		{ "id": "students", "title": "Students", "image": "|students.jpg|A line drawing of Informatics students gathering in front of the columns.|Our students are learning community.|Amy J. Ko|" },
-		{ "id": "curriculum", "title": "Curriculum", "image": "|curriculum.jpg|An illustration of databases, code, questions, and networks|What do we want students to know?|Amy J. Ko|" },
-		{ "id": "rules", "title": "Rules", "image": "|rules.jpg|The University of Washington block logo.|Academic freedom has limits|Amy J. Ko|" },
-		{ "id": "learning", "title": "Learning", "image": "|learning.jpg|An illustration of many students and the contents of one's head.|What factors shape learning?|Amy J. Ko|" },
-		{ "id": "teaching", "title": "Teaching", "image": "|teaching.jpg|An illustration of a teacher in front of a classroom|The sage on the stage is rarely the most effective teaching method.|Amy J. Ko|" },
-		{ "id": "courses", "title": "Courses", "image": "|courses.jpg|An illustration of a course website.|A great course can look deceptively simple.|Amy J. Ko|" },
-		{ "id": "grading", "title": "Grading", "image": "|grading.jpg|An illustration of grade points corresponding to progressively happy smiley faces.|Grades are everything and nothing.|Amy J. Ko|" },
-		{ "id": "conflict", "title": "Conflict", "image": "|conflict.jpg|An illustration of two people having an argument.|Challenging students can be challenging.|Amy J. Ko|" },
-		{ "id": "practice", "title": "Practice", "image": "|practice.jpg|Four panels showing a teacher reaching successively more students.|Better through reflection.|Amy J. Ko|" }
-	],
-	"revisions": [
-		["August 31st, 2020", "Moved to Peruse for improved reading experience."],
-		["August 30th, 2019", "Created the initial draft."]
-	],
-	"sources": {},
-	"references": {
-		"cochran1993": [
-			"Cochran, K. F., DeRuiter, J. A., King, R. A.", 1993,
-			"Pedagogical content knowing: An integrative model for teacher preparation", "Journal of Teacher Education",
-			"https://doi.org/10.1177%2F0022487193044004004"
-		],
-		"nrc2000": [
-			"National Research Council", 2000,
-			"How people learn: Brain, mind, experience, and school: Expanded edition", "National Academies Press",
-			"https://www.nap.edu/catalog/9853/how-people-learn-brain-mind-experience-and-school-expanded-edition"
-		],
-		"nasem2018": [
-			"National Academies of Sciences, Engineering, and Medicine", 2018,
-			"How people learn II: Learners, contexts, and cultures", "National Academies Press.",
-			"https://www.nap.edu/catalog/24783/how-people-learn-ii-learners-contexts-and-cultures"
-		],
-		"deslauriers2019": [
-			"Louis Deslauriers, Logan S. McCarty, Kelly Miller, Kristina Callaghan, Greg Kestin", 2019,
-			"Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom", "Proceedings of the National Academy of Sciences",
-			"https://doi.org/10.1073/pnas.1821936116"
-		],
-		"dweck2008": [
-			"Carol S. Dweck", 2018,
-			"Mindset: The new psychology of success", "Random House Books",
-			"https://www.penguinrandomhouse.com/books/44330/mindset-by-carol-s-dweck-phd/"
-		],
-		"ericsson1993": [
-			"Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C.", 1993,
-			"The role of deliberate practice in the acquisition of expert performance", "Psychological Review",
-			"https://psycnet.apa.org/buy/1993-40718-001"
-		],
-		"haskell2000": [
-			"Haskell, R. E.", 2000,
-			"Transfer of learning: Cognition and instruction", "Elsevier",
-			"https://www.elsevier.com/books/transfer-of-learning/haskell/978-0-12-330595-4"
-		],
-		"hidi2006": [
-			"Hidi, S., & Renninger, K. A.", 2006,
-			"The four-phase model of interest development", "Educational Psychologist",
-			"https://doi.org/10.1207/s15326985ep4102_4"
-		],
-		"pashler2009": [
-			"Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R.", 2008,
-			"Learning styles: Concepts and evidence", "Psychological science in the public interest",
-			"https://doi.org/10.1111%2Fj.1539-6053.2009.01038.x"
-		],
-		"tobias1994": [
-			"Tobias, S.", 1994,
-			"Interest, prior knowledge, and learning", "Review of Educational Research",
-			"https://doi.org/10.3102%2F00346543064001037"
-		],
-		"wenger1998": [
-			"Wenger, E.", 1998,
-			"Communities of practice: Learning, meaning, and identity", "Cambridge University Press",
-			"https://doi.org/10.1017/CBO9780511803932"
-		],
-		"zimmerman1990": [
-			"Zimmerman, B. J.", 1990,
-			"Self-regulated learning and academic achievement: An overview", "Educational Psychologist",
-			"https://doi.org/10.1207/s15326985ep2501_2"
-		]
-	}
+  "title": "Informatics Teaching Guide",
+  "number": 1,
+  "summary": "First draft",
+  "published": null,
+  "authors": ["[Amy J. Ko|https://amyjko.com]"],
+  "license": "[Creative Commons Attribution-NoDeriviatives 4.0|https://creativecommons.org/licenses/by-nd/4.0/]",
+  "images": {
+    "cover": "|cover.jpg|An illustration of several modes of teaching|Higher education teaching happens in many different contexts|Amy J. Ko|",
+    "unknown": "|cover.jpg||An illustration of several modes of teaching.|It looks like you're lost.|Amy J. Ko|"
+  },
+  "description": "Teaching is hard, especially in higher education, where few people have a formal training in learning, teaching, or education. I wrote this book to support the teachers in the University of Washington Information school who lack training in teaching, providing a personal, but also evidence-based understanding of teaching and learning. It shouldn't take more than 1 hour to read, and should provide the knowledge you need to structure your practice as a teacher.\n\nI hope you enjoy! If not, please file an [issue|https://github.com/amyjko/informatics-teaching-guide/issues/new] on the book's [GitHub repository|https://github.com/amyjko/informatics-teaching-guide/].",
+  "acknowledgements": "Thank you to my many colleagues who've offered feedback on the book.",
+  "base": "/ajko/books/informatics-teaching-guide",
+  "chapters": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "image": "|overview.jpg|An illustration of two different classrooms|The student becomes the teacher.|Amy J. Ko|"
+    },
+    {
+      "id": "students",
+      "title": "Students",
+      "image": "|students.jpg|A line drawing of Informatics students gathering in front of the columns.|Our students are learning community.|Amy J. Ko|"
+    },
+    {
+      "id": "curriculum",
+      "title": "Curriculum",
+      "image": "|curriculum.jpg|An illustration of databases, code, questions, and networks|What do we want students to know?|Amy J. Ko|"
+    },
+    {
+      "id": "rules",
+      "title": "Rules",
+      "image": "|rules.jpg|The University of Washington block logo.|Academic freedom has limits|Amy J. Ko|"
+    },
+    {
+      "id": "learning",
+      "title": "Learning",
+      "image": "|learning.jpg|An illustration of many students and the contents of one's head.|What factors shape learning?|Amy J. Ko|"
+    },
+    {
+      "id": "teaching",
+      "title": "Teaching",
+      "image": "|teaching.jpg|An illustration of a teacher in front of a classroom|The sage on the stage is rarely the most effective teaching method.|Amy J. Ko|"
+    },
+    {
+      "id": "courses",
+      "title": "Courses",
+      "image": "|courses.jpg|An illustration of a course website.|A great course can look deceptively simple.|Amy J. Ko|"
+    },
+    {
+      "id": "grading",
+      "title": "Grading",
+      "image": "|grading.jpg|An illustration of grade points corresponding to progressively happy smiley faces.|Grades are everything and nothing.|Amy J. Ko|"
+    },
+    {
+      "id": "conflict",
+      "title": "Conflict",
+      "image": "|conflict.jpg|An illustration of two people having an argument.|Challenging students can be challenging.|Amy J. Ko|"
+    },
+    {
+      "id": "practice",
+      "title": "Practice",
+      "image": "|practice.jpg|Four panels showing a teacher reaching successively more students.|Better through reflection.|Amy J. Ko|"
+    }
+  ],
+  "sources": {},
+  "references": {
+    "cochran1993": [
+      "Cochran, K. F., DeRuiter, J. A., King, R. A.",
+      "1993",
+      "Pedagogical content knowing: An integrative model for teacher preparation",
+      "Journal of Teacher Education",
+      "https://doi.org/10.1177%2F0022487193044004004"
+    ],
+    "nrc2000": [
+      "National Research Council",
+      "2000",
+      "How people learn: Brain, mind, experience, and school: Expanded edition",
+      "National Academies Press",
+      "https://www.nap.edu/catalog/9853/how-people-learn-brain-mind-experience-and-school-expanded-edition"
+    ],
+    "nasem2018": [
+      "National Academies of Sciences, Engineering, and Medicine",
+      "2018",
+      "How people learn II: Learners, contexts, and cultures",
+      "National Academies Press.",
+      "https://www.nap.edu/catalog/24783/how-people-learn-ii-learners-contexts-and-cultures"
+    ],
+    "deslauriers2019": [
+      "Louis Deslauriers, Logan S. McCarty, Kelly Miller, Kristina Callaghan, Greg Kestin",
+      "2019",
+      "Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom",
+      "Proceedings of the National Academy of Sciences",
+      "https://doi.org/10.1073/pnas.1821936116"
+    ],
+    "dweck2008": [
+      "Carol S. Dweck",
+      "2018",
+      "Mindset: The new psychology of success",
+      "Random House Books",
+      "https://www.penguinrandomhouse.com/books/44330/mindset-by-carol-s-dweck-phd/"
+    ],
+    "ericsson1993": [
+      "Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C.",
+      "1993",
+      "The role of deliberate practice in the acquisition of expert performance",
+      "Psychological Review",
+      "https://psycnet.apa.org/buy/1993-40718-001"
+    ],
+    "haskell2000": [
+      "Haskell, R. E.",
+      "2000",
+      "Transfer of learning: Cognition and instruction",
+      "Elsevier",
+      "https://www.elsevier.com/books/transfer-of-learning/haskell/978-0-12-330595-4"
+    ],
+    "hidi2006": [
+      "Hidi, S., & Renninger, K. A.",
+      "2006",
+      "The four-phase model of interest development",
+      "Educational Psychologist",
+      "https://doi.org/10.1207/s15326985ep4102_4"
+    ],
+    "pashler2009": [
+      "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R.",
+      "2008",
+      "Learning styles: Concepts and evidence",
+      "Psychological science in the public interest",
+      "https://doi.org/10.1111%2Fj.1539-6053.2009.01038.x"
+    ],
+    "tobias1994": [
+      "Tobias, S.",
+      "1994",
+      "Interest, prior knowledge, and learning",
+      "Review of Educational Research",
+      "https://doi.org/10.3102%2F00346543064001037"
+    ],
+    "wenger1998": [
+      "Wenger, E.",
+      "1998",
+      "Communities of practice: Learning, meaning, and identity",
+      "Cambridge University Press",
+      "https://doi.org/10.1017/CBO9780511803932"
+    ],
+    "zimmerman1990": [
+      "Zimmerman, B. J.",
+      "1990",
+      "Self-regulated learning and academic achievement: An overview",
+      "Educational Psychologist",
+      "https://doi.org/10.1207/s15326985ep2501_2"
+    ]
+  }
 }
